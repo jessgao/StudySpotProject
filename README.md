@@ -1,2 +1,2 @@
-Study Spot is a project created by Jessica Gao and Connor Flynn for UCLA's PIC16B Python course. 
+Study Spot is a project created by Jessica Gao and Connor Flynn for UCLA's Python course. 
 Our goal is to create an effective, highly accurate tool for finding the best study locations for UCLA students based on their preferences and weighted importance for specific features. This tool will utilize sentiment analysis in its training to gauge pre-identified factors that make a location an effective study space, geographical data, and personalization calculations to provide tailored recommendations around campus based on user input.
